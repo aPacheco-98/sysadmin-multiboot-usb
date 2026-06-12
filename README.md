@@ -57,9 +57,9 @@ Disponer de una herramienta portátil para:
 - Windows Server 2019: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
 - Windows Server 2022: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
 - Windows Server 2025: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025
-- Ubuntu Server 22.04 LTS: https://ubuntu.com/download/server
-- Ubuntu Server 24.04 LTS: https://ubuntu.com/download/server
-- Ubuntu Desktop 24.04 LTS: https://ubuntu.com/download/desktop
+- Ubuntu Server 22.04 LTS: https://releases.ubuntu.com/jammy/
+- Ubuntu Server 24.04 LTS: https://releases.ubuntu.com/noble/
+- Ubuntu Desktop 24.04 LTS: https://releases.ubuntu.com/noble/
 - Debian 13: https://www.debian.org/distrib/
 - Rocky Linux 10: https://rockylinux.org/download
 - Kali Linux: https://www.kali.org/get-kali/
